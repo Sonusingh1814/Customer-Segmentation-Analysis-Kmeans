@@ -9,9 +9,9 @@
 ## Dataset
 
 ### The dataset used for this project includes customer information relevant to segmentation. Typical features might include:
-### Demographics: Age, gender, income, location
-### Behavioral Metrics: Purchase frequency, average order value, product preferences
-### Engagement: Last purchase date, customer loyalty, interaction with services
+#### Demographics: Age, gender, income, location
+#### Behavioral Metrics: Purchase frequency, average order value, product preferences
+#### Engagement: Last purchase date, customer loyalty, interaction with services
 
 #### The dataset should be preprocessed, cleaned, and formatted before analysis.
 
@@ -36,20 +36,20 @@ Evaluation of model quality based on cluster cohesion and separation.
 ## Technologies Used
 
 ### This project uses the following Python libraries:
-### 1.pandas - for data handling and manipulation
+#### 1.pandas - for data handling and manipulation
 
-### 2.matplotlib and seaborn - for data visualization
+#### 2.matplotlib and seaborn - for data visualization
 
-### 3.scikit-learn - for implementing clustering algorithms (e.g., K-Means) and model evaluation
+#### 3.scikit-learn - for implementing clustering algorithms (e.g., K-Means) and model evaluation
 
 ## How to Run
 
-### 1.Install Required Libraries: Make sure you have the necessary libraries installed. You can install them with:
+#### 1.Install Required Libraries: Make sure you have the necessary libraries installed. You can install them with:
 #### pip install pandas matplotlib seaborn scikit-learn
 
-### 2.Run the Notebook: Open the Jupyter Notebook file (Customer Segmentation Analysis.ipynb) and run each cell sequentially to reproduce the analysis.
+#### 2.Run the Notebook: Open the Jupyter Notebook file (Customer Segmentation Analysis.ipynb) and run each cell sequentially to reproduce the analysis.
 
-### 3.Interpret the Clusters: After running the notebook, you will obtain clusters representing different customer segments, each characterized by unique purchasing and engagement patterns.
+#### 3.Interpret the Clusters: After running the notebook, you will obtain clusters representing different customer segments, each characterized by unique purchasing and engagement patterns.
 
 ## Results
 
@@ -65,11 +65,11 @@ Business Applications: Insights gained from clustering can be used to create per
 
 ### Future enhancements to this project might include:
 
-Experimenting with alternative clustering algorithms, such as DBSCAN or Hierarchical Clustering.
+#### Experimenting with alternative clustering algorithms, such as DBSCAN or Hierarchical Clustering.
 
-Adding Feature Engineering for more granular customer insights.
+#### Adding Feature Engineering for more granular customer insights.
 
-Implementing a deployment-ready model that can dynamically segment new customers.
+#### Implementing a deployment-ready model that can dynamically segment new customers.
 
 ## Author
 #### This project was created by Sonu Singh 
