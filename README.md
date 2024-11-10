@@ -19,14 +19,17 @@
 
 ### The project follows a standard workflow, divided into the following sections:
 
-1.Data Cleaning and Preparation:
+#### 1.Data Cleaning and Preparation:
 Handling missing values, feature selection, and standardizing data for clustering.
-2.Exploratory Data Analysis (EDA):
+
+#### 2.Exploratory Data Analysis (EDA):
 Visualizations and summaries to understand data patterns.
-3.Modeling with Clustering Algorithms:
+
+#### 3.Modeling with Clustering Algorithms:
 The primary clustering algorithm used here is K-Means.
 The optimal number of clusters is determined through methods like the Elbow method or Silhouette score.
-4.Evaluation and Visualization:
+
+#### 4.Evaluation and Visualization:
 Cluster interpretation and visualization to understand customer groups.
 Evaluation of model quality based on cluster cohesion and separation.
 
