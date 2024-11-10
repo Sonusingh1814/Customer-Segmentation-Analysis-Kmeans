@@ -63,3 +63,7 @@ Business Applications: Insights gained from clustering can be used to create per
 Experimenting with alternative clustering algorithms, such as DBSCAN or Hierarchical Clustering.
 Adding Feature Engineering for more granular customer insights.
 Implementing a deployment-ready model that can dynamically segment new customers.
+
+## Author
+#### This project was created by Sonu Singh 
+#### mail- sonusinghen07@gmail.com
